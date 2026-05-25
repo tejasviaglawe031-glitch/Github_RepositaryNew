@@ -1,1 +1,1 @@
-# Github_RepositaryNew
+# new-repository-for-lwc
